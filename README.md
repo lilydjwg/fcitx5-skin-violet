@@ -14,4 +14,4 @@ cd ~/.local/share/fcitx5/themes
 git clone https://github.com/lilydjwg/fcitx5-skin-violet
 ```
 
-Then choose the "Violet" theme via fcitx5 config tools.
+Then choose the "Violet" theme via fcitx5 config tools. Tutorial from felixonmars: https://twitter.com/felixonmars/status/1344335122787573760.
