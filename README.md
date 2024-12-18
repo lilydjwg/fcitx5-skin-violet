@@ -1,7 +1,13 @@
 A violet fcitx5 skin
 ----
 
+Light version (`master` branch):
+
 ![screenshot](https://raw.githubusercontent.com/lilydjwg/fcitx5-skin-violet/master/screenshot.png)
+
+Dark version (`dark` branch):
+
+![screenshot](https://raw.githubusercontent.com/lilydjwg/fcitx5-skin-violet/dark/screenshot.png)
 
 Install
 ----
